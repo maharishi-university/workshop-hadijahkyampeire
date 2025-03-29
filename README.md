@@ -35,7 +35,7 @@ CREATE TABLE student(id INT PRIMARY KEY, name VARCHAR(255) NOT NULL);
 ## Setup an S3 Bucket & CloudFront
 * Ensure that NodeJS v18 or above is installed in your local computer.
 * Clone source code from the repo: https://github.com/Thao-V/MIU-CC-Seminar-2025-03-CodeDemo
-* Go to the director: cd MIU-CC-Seminar-2025-03-CodeDemo/frontend
+* Go to the directory: cd MIU-CC-Seminar-2025-03-CodeDemo/frontend
 * Install dependencies: npm install
 * Configure the .env file: REACT_APP_API_URL=https://<your-api-endpoint>
 * Run locally: npm start
